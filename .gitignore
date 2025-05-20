@@ -1,8 +1,10 @@
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Data files
+kidney-data.zip
 
 # C extensions
 *.so
